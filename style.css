@@ -1,0 +1,106 @@
+.pic1{
+    margin-left: 700px;
+    
+}
+
+.border{
+
+    font-size: 20px;
+    font-weight: 700;
+}
+
+
+.ull{
+    margin-left: 40px;
+}
+
+.text2{
+    margin-top: 100px;
+}
+.text5{
+    text-decoration: none;
+    font-size: 17px;
+    color: rgb(118, 114, 114);
+    font-weight: 500;
+    margin-top: 100px;
+
+
+}
+
+.main5{
+    
+    margin: 0 !important;
+    padding: 0 !important;
+
+}
+
+.fttext{
+    font-size: 14px;
+   color:  rgb(179, 166, 166);
+}
+
+.explo{
+    font-weight: 500;
+}
+
+#sidebarr{
+    position: fixed;
+    width: 50%;
+    background-color:white;
+    right: -50%;
+    text-decoration: none;
+    height: 40px;
+    top: 5px;
+
+}
+#sidebarr li{
+    color: black;
+    background-color:rgba(244, 239, 239, 0.822);
+    font-size: 20px;
+border-bottom: 1px solid gray;
+padding: 30px;
+text-align: center;
+
+
+}
+
+.togglebar{
+    position: absolute;
+    right: 100%;
+    top: 15px;
+   
+
+   
+}
+
+.togglebar span{
+    display: block;
+background-color:black;
+    width: 25px;
+    height: 4px;
+    margin: 3px;
+
+}
+
+#sidebarr.active{
+    right: 0;
+    text-decoration: none;
+}
+
+span1{
+    margin-left: 70px;
+    font-weight: 500;
+    
+}
+span-2{
+    margin-left: 50px;
+    font-size: 15px;
+    font-weight: normal;
+
+   
+}
+
+
+.nav-link{
+    margin-left: 40px;
+}
